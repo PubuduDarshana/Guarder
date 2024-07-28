@@ -138,8 +138,8 @@ img {
 }
 .hero .bg-pic .content {
   position: absolute;
-  left: 10rem;
-  top: 18rem;
+  left: 10%;
+  top: 30%;
 }
 .hero .bg-pic .content #h11 {
   color: #fff;
